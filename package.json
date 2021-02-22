@@ -1,0 +1,23 @@
+{
+  "name": "gas-cost-estimator",
+  "version": "1.0.0",
+  "description": "[read report](https://htmlpreview.github.io/?https://github.com/sambacha/gwei-analysis/blob/master/src/analysis/exploration.nb.html)",
+  "main": "main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/gwei-analysis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambacha/gwei-analysis/issues"
+  },
+  "homepage": "https://github.com/sambacha/gwei-analysis#readme"
+}
